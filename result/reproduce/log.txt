@@ -1,0 +1,5 @@
+2024-08-08 12:12:52,844 INFO Namespace(config='config.yml', model='./model/backbone/model.pth', align=False, tmp='')
+2024-08-08 12:12:54,622 INFO => loading pretrained model './model/backbone/model.pth'
+2024-08-08 12:12:54,759 INFO => loaded checkpoint './model/backbone/model.pth'
+2024-08-08 12:12:54,759 INFO Data loading done.
+2024-08-08 12:12:54,759 INFO Start testing.
